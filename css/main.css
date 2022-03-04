@@ -22426,7 +22426,7 @@ img.absolute_image {
 }
 
 .section-about {
-	background: url("../images/bg-section-about.jpg") no-repeat center/cover;
+	background: url("../images/bg-section-about.webp") no-repeat center/cover;
 }
 
 @media (min-width: 1930px) {
